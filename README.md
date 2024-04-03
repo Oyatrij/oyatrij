@@ -2,8 +2,6 @@
 #### Framework & Languages
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/> <img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-1F305F?style=flat-square&logo=mariadbfoundation&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=amazondynamodb&logoColor=white"/> 
 
-![Oyatrij's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyatrij&show_icons=true&theme=radical)
-
 <!--
 **oyatrij/oyatrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
